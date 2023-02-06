@@ -1,5 +1,5 @@
 <div style="background-color:rgb(0,0,51);">
-![四叶草官网](https://tc.phpx.cn/uploads/2023/02/06/XqNFoBywCB.jpg)
+<img src="https://tc.phpx.cn/uploads/2023/02/06/XqNFoBywCB.jpg" alt="四叶草官网"/>
 <hr/>
 <p style="font-family:arial;color:rgb(0, 255, 162);font-size:20px;">四叶草工作室作品</p>  
 <a style="font-family:arial;color:rgb(0, 255, 162);font-size:20px;" href="game.exe">井字棋小游戏</a>  
