@@ -1,5 +1,5 @@
 <body style="background-color:#000033;">
-<img src="/logo.jpg" style="font-family:arial;color:rgb(0, 255, 162);font-size:20px;" alt="四叶草官网"/>
+![四叶草官网](/logo.jpg)
 <hr/>
 <p style="font-family:arial;color:rgb(0, 255, 162);font-size:20px;">四叶草工作室作品</p>
 <a style="font-family:arial;color:rgb(0, 255, 162);font-size:20px;" href="game.exe">井字棋小游戏</a>
