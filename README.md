@@ -1,4 +1,3 @@
-<title>四叶草官网(fourleavesstraw.com)</title>
 <body bgcolor= #000033>
     <img src="logo.png" style="font-family:arial;color:rgb(0, 255, 162);font-size:20px;" alt="四叶草官网">
     <hr>
