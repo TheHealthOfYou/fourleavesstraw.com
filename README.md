@@ -1,3 +1,4 @@
+<body style="background-color:#000033;">
 <img src="/logo.jpg" style="font-family:arial;color:rgb(0, 255, 162);font-size:20px;" alt="四叶草官网"/>
 <hr/>
 <p style="font-family:arial;color:rgb(0, 255, 162);font-size:20px;">四叶草工作室作品</p>
@@ -15,3 +16,4 @@
 <p style="font-family:arial;color:rgb(0, 255, 162);font-size:20px;">邱室长：1396422257@qq.com</p>
 <p style="font-family:arial;color:rgb(0, 255, 162);font-size:20px;">谷副室长：flcws_f@163.com</p>
 <hr/>
+</body>
